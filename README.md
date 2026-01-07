@@ -22,6 +22,16 @@
 
 ---
 
+<div align="center">
+  <br/>
+  <!-- 这里放你的主界面截图，alt 写清楚便于 SEO -->
+  <img src="./images/enter.png" width="800" alt="ZenoFlow 玻璃拟态主界面展示">
+  <img src="./images/task_ai.png" width="800" alt="ZenoFlow Ai任务拆分">
+  <img src="./images/mobile.gif" width="100%" alt="ZenoFlow移动端示例">
+  <br/>
+  <br/>
+</div>
+
 ## 💡 为什么选择纯前端版？(Why Lite?)
 
 在云服务泛滥的今天，我们反其道而行之。**ZenFlow Lite** 是为了那些追求**极致速度**和**数据隐私**的用户设计的：
@@ -82,7 +92,7 @@ npm run dev
 
 ## 🤝 交流与商业授权 (Contact)
 
-**ZenFlow** 采用 Open Core 模式运营。
+**ZenoFlow** 采用 Open Core 模式运营。
 如果你是**企业用户**，或者希望获得**集成 AI 与语音功能的 Pro 版源码**（用于二次开发或商业项目），欢迎加入我们的开发者私域：
 
 <div align="center">
