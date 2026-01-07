@@ -8,10 +8,10 @@
   </p>
 
   <p>
-    <a href="#为什么选择纯前端">核心优势</a> • 
-    <a href="#功能对比-pro-vs-lite">功能对比</a> • 
-    <a href="#快速开始">快速运行</a> • 
-    <a href="#私域交流">获取商业版</a>
+    <a href="#core-features">核心优势</a> • 
+    <a href="#comparison">功能对比</a> • 
+    <a href="#quick-start">快速运行</a> • 
+    <a href="#contact">获取商业版</a>
   </p>
 
   ![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
@@ -21,6 +21,7 @@
 </div>
 
 ---
+<span id="core-features"></span>
 
 ## 💡 为什么选择纯前端版？(Why Lite?)
 
@@ -30,6 +31,8 @@
 *   🔒 **绝对隐私**：所有数据存储在浏览器 LocalStorage 中，**没有任何网络请求发送到服务器**。你的计划，只有你自己知道。
 *   🎨 **玻璃拟态 UI**：采用了最新的 Glassmorphism 设计语言，甚至能治愈你的“任务拖延症”。
 *   ⚡ **极速响应**：没有网络延迟，所有操作毫秒级响应。
+
+<span id="comparison"></span>
 
 ## ⚔️ 功能对比 (Pro vs Lite)
 
@@ -51,6 +54,8 @@
 | 专属技术支持 | 社区互助 | 1对1 支持 |
 
 👉 **[想体验 AI + 语音操控的完全体？点此扫码联系作者，获取 Pro 版演示](#)** 
+
+<span id="quick-start"></span>
 
 ## 🚀 快速开始 (Quick Start)
 
@@ -80,7 +85,7 @@ npm run dev
 - **Drag & Drop**: `@dnd-kit` (高性能拖拽库)
 - **Architecture**: 纯客户端架构 (Client-Side Only)
 
-## 示例页面
+## 📸 界面预览(Screenshots)
 
 
 <div align="center">
