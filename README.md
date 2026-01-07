@@ -79,7 +79,7 @@ npm run dev
 
 本项目是学习现代化 React 开发的最佳实践案例：
 
-- **Core**: React 19 + Vite + TypeScript + Whisper
+- **Core**: React 19 + Vite + TypeScript + Whisper + LLM
 - **State**: Hooks (useReducer/Context)
 - **Style**: Tailwind CSS + Lucide React
 - **Drag & Drop**: `@dnd-kit` (高性能拖拽库)
@@ -106,6 +106,7 @@ npm run dev
 </div>
 
 
+<span id="contact"></span>
 
 ## 🤝 交流与商业授权 (Contact)
 
