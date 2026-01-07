@@ -1,0 +1,7 @@
+{
+  "name": "Zeno Flow - AI Enhanced Todo",
+  "description": "A focused, aesthetic desktop-style todo list application with Gemini AI integration for task breakdown and management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
