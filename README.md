@@ -26,10 +26,17 @@
   <br/>
   <!-- 这里放你的主界面截图，alt 写清楚便于 SEO -->
   <img src="./images/enter.png" width="800" alt="ZenoFlow 玻璃拟态主界面展示">
+  <br/>
   <img src="./images/task_ai.png" width="800" alt="ZenoFlow Ai任务拆分">
-  <img src="./images/mobile.gif" width="100%" alt="ZenoFlow移动端示例">
   <br/>
-  <br/>
+</div>
+
+<div align="center">
+  <h3>📱 移动端完美适配 (Mobile Responsive)</h3>
+  <p>在手机上也能享受如丝般顺滑的拖拽排序体验和语音交互。</p>
+  
+  <!-- 这里的 width 控制显示大小，建议 300-350px，太大会模糊且占地 -->
+  <img src="./images/mobile.gif" width="320" alt="Mobile Demo">
 </div>
 
 ## 💡 为什么选择纯前端版？(Why Lite?)
